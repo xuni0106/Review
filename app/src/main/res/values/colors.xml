@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_light">#F4F1EB</color>
+    <color name="surface_light">#FFFDF8</color>
+    <color name="accent_light">#C96826</color>
+    <color name="ink_light">#191B20</color>
+</resources>
